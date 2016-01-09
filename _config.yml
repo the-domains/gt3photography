@@ -1,0 +1,28 @@
+name: GT3Photography
+favicon: null
+layout_spectrum: 0.6562304943799973
+typography_spectrum: 0.19145374302752316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.585854071425274
+  lightness: 0.2163739101961255
+  saturation: 0.8855745100881904
+  rhythmicContrast: 0.16025177855044603
+purpose: []

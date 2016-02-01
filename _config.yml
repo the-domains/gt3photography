@@ -1,6 +1,6 @@
 name: GT3Photography
 favicon: null
-layout_spectrum: 0.6562304943799973
+layout_spectrum: 0.24773
 typography_spectrum: 0.19145374302752316
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.1875
   lightness: 0.2163739101961255
   saturation: 0.8855745100881904
-  rhythmicContrast: 0.16025177855044603
+  rhythmicContrast: 0.25
 purpose: []
